@@ -1,6 +1,13 @@
 # SOC Intern Simulation – End-to-End Attack Chain and Security Response
 
-![Insert Image Here – Attack Chain Diagram or Lab Architecture]
+[![ELK](https://img.shields.io/badge/Tool-ELK%20Stack-red?logo=elasticsearch)](https://www.elastic.co/elk-stack)
+[![Wazuh](https://img.shields.io/badge/Tool-Wazuh-lightblue?logo=wazuh)](https://wazuh.com/)
+[![Metasploit](https://img.shields.io/badge/Tool-Metasploit-orange?logo=metasploit)](https://www.metasploit.com/)
+[![Kali Linux](https://img.shields.io/badge/Tool-Kali%20Linux-blue?logo=kali-linux)](https://www.kali.org/)
+[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/)
+[![MITRE ATT&CK](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-yellow?logo=mitre)](https://attack.mitre.org/)
+
+---
 
 ## Table of Contents
 
